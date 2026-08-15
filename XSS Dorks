@@ -1,0 +1,69 @@
+/?s= site: (any domain name choose)
+/search?q= site: (any domain name choose)
+/index.php?lang= site: (any domain name choose)
+/index.php?page= site: (any domain name choose)
+/search?query= site: (any domain name choose)
+/search?keyword= site: (any domain name choose)
+/search/?q= site: (any domain name choose)
+/connexion?redirect_uri= site: (any domain name choose)
+/?page= site: (any domain name choose)
+/search/?s= site: (any domain name choose)
+/?keywords= site:
+/search/?keyword= site: (any domain name choose)
+/search-results?q=
+inurl:".php?query="
+inurl:".php?searchstring="
+inurl:".php?keyword="
+inurl:".php?file="
+inurl:".php?years="
+inurl:".php?txt="
+page_details.php?menu_id=
+gallery.php?menu_id=
+inurl:".php?tag="
+inurl:".php?max="
+inurl:".php?from="
+35
+inurl:".php?author="
+inurl:".php?pass="
+inurl:".php?feedback="
+
+
+
+
+
+
+Example:
+
+
+/?s= site:.in
+/search?q= site:.in
+/index.php?lang= site:.in
+/index.php?page= site:.in
+/search?query= site:.in
+/search?keyword= site:.in
+/search/?q= site:.in
+/connexion?redirect_uri= site:.in
+/?page= site:.in
+/search/?s= site:.in
+/?keywords= site:
+/search/?keyword= site:.in
+/search-results?q=
+inurl:".php?query="
+inurl:".php?searchstring="
+inurl:".php?keyword="
+inurl:".php?file="
+inurl:".php?years="
+inurl:".php?txt="
+page_details.php?menu_id=
+gallery.php?menu_id=
+inurl:".php?tag="
+inurl:".php?max="
+inurl:".php?from="
+inurl:".php?author="
+inurl:".php?pass="
+inurl:".php?feedback=”
+
+/search.php?search string site:.pk
+
+
+
