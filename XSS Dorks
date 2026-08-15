@@ -30,9 +30,7 @@ inurl:".php?feedback="
 
 
 
-
-
-Example:
+Example
 
 
 /?s= site:.in
@@ -64,6 +62,8 @@ inurl:".php?pass="
 inurl:".php?feedback=”
 
 /search.php?search string site:.pk
+
+
 
 
 
